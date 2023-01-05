@@ -20,7 +20,7 @@ function Services() {
         <div className="wrapper">
 
 
-            <div className="section_heading text-center"> <h3> Some section heading goes here </h3> </div>
+            <div className="section_heading text-center"> <h3> Some section heading goes here another changes </h3> </div>
 
         <div className="services_container d-flex justify-space-between flex-wrap">
 
