@@ -1,0 +1,24 @@
+.hero_contents {
+    padding: 70px 0 0 0;
+}
+
+.hero_image img {
+    max-width: 600px;
+}
+
+.hero_image {
+    padding: 45px 0 0 0;
+    animation: updown 2s ease-in-out infinite alternate-reverse both;
+}
+
+
+
+@keyframes updown{
+    0% {
+        transform: translateY(10px);
+    }
+    
+    100% {
+        transform: translateY(-10px);
+    }
+}

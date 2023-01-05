@@ -1,0 +1,50 @@
+.header_wrapper {
+    max-width: 1440px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+
+.site_logo img {
+    max-width: 70px;
+}
+
+
+.site_header {
+    padding: 20px 0;
+    box-shadow: 0px -20px 25px 15px rgb(158 158 158);
+}
+
+
+nav.header_nav ul li {
+    display: inline-block;
+    padding-right: 30px;
+}
+
+nav.header_nav ul li:last-child {
+    padding-right: 0;
+}
+
+
+nav.header_nav ul li a {
+    font-size: 24px;
+    color: #485664;
+    font-weight: 600;
+    transition: all ease 0.5s;
+    position: relative;
+}
+
+nav.header_nav ul li a:after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    width: 0;
+    height: 3px;
+    background-color: #485664;
+    left: 0;
+    transition: all ease 0.5s;
+}
+
+nav.header_nav ul li a:hover:after {
+    width: 100%;
+}

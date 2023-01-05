@@ -1,0 +1,20 @@
+.single_service {
+    padding: 20px;
+}
+
+.service-image {
+    padding: 120px 0;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 10px;
+}
+
+.services_section {
+    padding: 140px 0;
+}
+
+
+.section_heading {
+    padding-bottom: 40px;
+}

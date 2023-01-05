@@ -1,0 +1,23 @@
+.footer_wrapper {
+    max-width: 1440px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.site_footer {
+    padding: 20px 0;
+    border-top: solid 4px darkslategrey;
+}
+
+
+.footer_social_connect svg {
+    font-size: 24px;
+    color: darkslategrey;
+}
+
+.footer_social_connect a:not(:last-child) {
+    margin-right: 16px;
+}
+
+
+
