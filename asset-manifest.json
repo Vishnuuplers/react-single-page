@@ -1,15 +1,17 @@
 {
   "files": {
-    "main.css": "/react-single-page/static/css/main.d33ca9a0.css",
-    "main.js": "/react-single-page/static/js/main.b66c9e43.js",
-    "static/media/hero_rocket.svg": "/react-single-page/static/media/hero_rocket.bad2678a000f77391f745909c599ef39.svg",
-    "static/media/male_avatar.svg": "/react-single-page/static/media/male_avatar.f6e9fbfb7ee0984f6aa33d165d360fea.svg",
+    "main.css": "/react-single-page/static/css/main.776b6d5f.css",
+    "main.js": "/react-single-page/static/js/main.7d76443c.js",
+    "static/media/slick.svg": "/react-single-page/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/react-single-page/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/react-single-page/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/react-single-page/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/react-single-page/index.html",
-    "main.d33ca9a0.css.map": "/react-single-page/static/css/main.d33ca9a0.css.map",
-    "main.b66c9e43.js.map": "/react-single-page/static/js/main.b66c9e43.js.map"
+    "main.776b6d5f.css.map": "/react-single-page/static/css/main.776b6d5f.css.map",
+    "main.7d76443c.js.map": "/react-single-page/static/js/main.7d76443c.js.map"
   },
   "entrypoints": [
-    "static/css/main.d33ca9a0.css",
-    "static/js/main.b66c9e43.js"
+    "static/css/main.776b6d5f.css",
+    "static/js/main.7d76443c.js"
   ]
 }
